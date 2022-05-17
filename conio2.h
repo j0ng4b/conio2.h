@@ -129,13 +129,3 @@ static int conio2_getch(int should_echo)
     return key;
 }
 
-/*
-int main()
-{
-    textbackground(RED);
-    cputs("Ola");
-    getch();
-    return 0;
-}
-*/
-
